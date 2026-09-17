@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yash Patil</title>
+</head>
+
+<body>
+
+    <h1>Welcome to Yash Patil's Website</h1>
+
+    <h2>About Me</h2>
+    <p>Hello! My name is Yash Patil.</p>
+    <p>I am a BBA student.</p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>MS Excel</li>
+        <li>MS PowerPoint</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: yash@example.com</p>
+
+</body>
+</html>
+
